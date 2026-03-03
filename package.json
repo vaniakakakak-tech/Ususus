@@ -1,0 +1,21 @@
+{
+  "name": "packsteal",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@capacitor/core": "^5.7.0",
+    "@capacitor/android": "^5.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "@capacitor/cli": "^5.7.0",
+    "vite": "^4.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "sync": "npx cap sync android"
+  }
+}

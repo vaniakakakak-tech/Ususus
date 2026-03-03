@@ -1,0 +1,10 @@
+{
+  "appId": "com.vaniakakakak.packsteal",
+  "appName": "PackSteal",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "url": "http://localhost:8080",
+    "cleartext": true
+  }
+}
